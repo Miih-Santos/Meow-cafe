@@ -1,2 +1,5 @@
-# Meow-caf-
-Um site totalmente baseado no "Meow Café", do site Codante.io, para aprimoramento e desenvolvimento na área de web developer.
+# ☕Meow-café
+
+Onde apresento à vocês - através de uma landing page - uma cafeteria temática aos amantes de gatos. 
+
+🛠 Esta página está sendo desenvolvida com HTML e CSS e está sujeita a modificações e ajustes!!
